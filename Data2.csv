@@ -1,0 +1,11 @@
+Country,Age,Salary
+France,44,72000
+Spain,27,48000
+Germany,,54000
+Spain,30,61000
+Germany,40,NaN
+France,35,58000
+Spain,NaN,52000
+France,48,79000
+Germany,50,83000
+France,37,67000
